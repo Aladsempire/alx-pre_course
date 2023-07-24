@@ -1,2 +1,1 @@
-My first readme
-My first readme
+Ada is an ALX student
